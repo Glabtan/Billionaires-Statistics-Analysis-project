@@ -45,15 +45,6 @@ The dataset used in this project is publicly available and has been cleaned for 
 - Country/Region
 - Wealth source (e.g., self-made, inherited)
 
-## Repository Structure
-```plaintext
-Billionaires-Statistics-Analysis/
-├── README.md  # Project documentation
-├── Billionaires_Statistics_Analysis.xlsx  # Main analysis file
-├── Charts/  # Folder containing key visualizations
-│   ├── wealth_distribution.png
-│   ├── regional_growth.png
-│   └── demographics.png
 ```
  
 
